@@ -11,4 +11,4 @@
 <p>  The course is on progress, it will last 2 years.</p>
 
 - 🖊️ What is "SENAI"?
-<p>  SENAI is a recursive acronym for "National Industrial Apprenticeship Service". It's the best technical school in Brazil, and I study at the "SENAI Almirante Tamandaré school".</p>
+<p>  SENAI is a recursive acronym for "National Industrial Apprenticeship Service". It's the best technical school in Brazil, and I study at the "SENAI Almirante Tamandaré" school.</p>
