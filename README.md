@@ -4,9 +4,6 @@
 
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
-- 🌠 This repository contains...
-<p>  This repository has the projects and exercises build during my technical systems development course in Senai Almirante Tamandaré.</p>
-
 - 🏁 What's the course duration?
 <p>  The course is on progress, it will last 2 years.</p>
 
